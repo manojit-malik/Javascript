@@ -1,0 +1,29 @@
+h1{
+
+    color: burlywood;
+    background-color: brown;
+
+}
+
+#heading1{
+    color: yellowgreen;
+    background-color: black;
+}
+
+.heading1{
+    color:violet;
+    background-color: cadetblue;
+}
+
+button{
+
+    background-color: aqua;
+    color: black;
+    
+}
+
+body{
+    color: blueviolet;
+    background-color: yellow;
+}
+
